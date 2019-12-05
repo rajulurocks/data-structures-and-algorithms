@@ -5,6 +5,11 @@ package challenges;
 
 public class Library {
     public boolean someLibraryMethod() {
+        System.out.println("hi");
+
         return true;
+
+        
     }
+
 }
